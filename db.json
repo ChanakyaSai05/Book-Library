@@ -1,0 +1,30 @@
+{
+  "books": [
+    {
+      "title": "Ramanuja",
+      "author": "chanakya",
+      "genre": "Inspirational",
+      "summary": "He is trying to achieve his goal",
+      "price": "700",
+      "rating": 4.3,
+      "id": 4
+    },
+    {
+      "title": "hello",
+      "author": "hii",
+      "genre": "Mystry Thriller",
+      "summary": "hai bye\n",
+      "price": "2000",
+      "id": 6
+    },
+    {
+      "title": "Harry Potter",
+      "author": "JK Rowling",
+      "genre": "Mystry Thriller",
+      "summary": "Harry potter is a famous book\n",
+      "price": "2000",
+      "rating": "3.5",
+      "id": 7
+    }
+  ]
+}

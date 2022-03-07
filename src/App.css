@@ -1,0 +1,75 @@
+/* .app-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.button-container {
+  background-color: green;
+  width: 400px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: bolder;
+  margin-bottom: 20px;
+} */
+
+/* ecommerce */
+/* .products {
+  justify-content: center;
+  align-items: center;
+  width: 70vw;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+} */
+
+/* Api */
+/* .app {
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 40px;
+  align-items: center;
+  overflow-y: scroll;
+  /* without this overflow also it is working */
+/* }
+.box {
+  border: 1px solid black;
+  box-shadow: 10px 5px 5px black;
+  width: 40vw;
+  padding: 10px;
+  margin: 10px;
+}  */
+
+/* Book Library */
+.belowContainer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100vw;
+}
+.firstChild {
+  display: flex;
+}
+.cardContainer {
+  display: flex;
+  width: 50vw;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.cardItem {
+  width: 20vw;
+  margin: 10px;
+  box-shadow: 5px 5px 10px orange;
+}
+.cardItem:hover {
+  transform: scale(1.1);
+}
+.secondChild {
+  width: 22vw;
+  margin-right: 100px;
+}
